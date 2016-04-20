@@ -1,2 +1,3 @@
-# 微信自动回复
-感谢0x5e的wechat-deleted-friends，基于此做出了这个东西，主要自己想拿来实现早起签到的功能。初学python，写的有点乱，欢迎大神改正。
+# Wechat auto-reply crawler
+Thanks to 0x5e's wechat-deleted-friends project, based on which I developed this tool. The reason why I developed such a tool is that I want to implement a checkin system in wechat.
+Still new to Python. If there are any errors, please help me to improve this program. Any help whould be greatly appreciated.
